@@ -1,0 +1,212 @@
+{
+  "seller": [
+    {
+      "name": "sanket nirmale",
+      "email": "sanketnirmale830@gmail.com",
+      "password": "sanket@123",
+      "id": 1
+    },
+    {
+      "name": "sanket",
+      "password": "nirmale@gmail.com",
+      "email": "123456789",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "I phone 14",
+      "price": "100000",
+      "category": "mobile",
+      "color": "black",
+      "description": "An Apple Product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "HP Laptop",
+      "price": "50000",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp laptop for student and professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "Toy",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    },
+    {
+      "name": "Men Tapered Fit Mid-Rise Stretchable F-Lite Jeans",
+      "description": "Dark shade, no fade black jeans Tapered fit, mid-rise Clean look Stretchable 5 pocketLength: regular",
+      "category": "men's clothing",
+      "brand": "Flying Machine",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22331454/2023/3/14/94b7874c-248e-4adc-b477-df270c9084b11678796503966FlyingMachineMenBlackSlimFitHighlyDistressedStretchableJeans2.jpg",
+      "price": 1199
+    },
+    {
+      "name": "Men Slim Fit Light Fade Stretchable Mid-Rise Jeans",
+      "description": "Dark shade, light fade blue jeans Slim fit, mid-rise Clean look Stretchable 5 pocketLength: Regular",
+      "category": "men's clothing",
+      "brand": "WROGN",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23054194/2023/5/31/30b7adce-5062-4af5-a134-b8431f7b6c091685534421009-WROGN-Men-Jeans-8011685534420436-2.jpg",
+      "price": 1199
+    },
+    {
+      "name": "Men Skinny Fit Heavy Fade Stretchable Jeans",
+      "description": "Medium shade, heavy fade blue jeans Skinny fit, mid-rise Clean look Stretchable 5 pocket Length: regular",
+      "category": "men's clothing",
+      "brand": "U.S. Polo Assn. Denim Co.",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23054194/2023/5/31/30b7adce-5062-4af5-a134-b8431f7b6c091685534421009-WROGN-Men-Jeans-8011685534420436-2.jpg",
+      "price": 959
+    },
+    {
+      "name": "Men Super Skinny Fit Heavy Fade Stretchable Jeans",
+      "description": "Medium shade, heavy fade blue jeans Super skinny fit, mid-rise Clean look Stretchable 5 pocket Length: regular",
+      "category": "men's clothing",
+      "brand": "VAN HEUSEN DENIM LABS",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/20239280/2023/3/8/eee8a64c-625d-4162-91df-1317fbe211ac1678270952252-VAN-HEUSEN-DENIM-LABS-Men-Jeans-4181678270951455-2.jpg",
+      "price": 1249
+    },
+    {
+      "name": "Men Mildly Distressed Light Fade Jeans",
+      "description": "Medium shade, light fade blue jeans Regular fit, mid-rise Clean look Non stretchable 5 pocket Length: regular",
+      "category": "men's clothing",
+      "brand": "SF JEANS by Pantaloons",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21548190/2023/1/14/79ffb2e8-f495-4e38-8fa3-d376f7338b261673674401547SFJEANSbyPantaloonsMenBlueMildlyDistressedLightFadeJeans2.jpg",
+      "price": 1104
+    },
+    {
+      "name": "Men Blue Slim Fit Mid-Rise Clean Look Jeans",
+      "description": "Blue medium wash 4-pocket mid-rise jeans, clean look, no fade, has a button and zip closure, and waistband with belt loops",
+      "category": "men's clothing",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12398808/2020/9/8/ecbff761-8ba1-4b4c-be31-d08d5220a2ff1599550194948PepeJeansMenBlueSlimFitMid-RiseCleanLookJeans2.jpg",
+      "brand": "Pepe Jeans",
+      "price": 1199
+    },
+    {
+      "name": "Men Blue Slim Fit Mid-Rise Clean Look Jeans",
+      "description": "Blue medium wash 4-pocket mid-rise jeans, clean look, no fade, has a button and zip closure, and waistband with belt loops",
+      "category": "men's clothing",
+      "image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12398808/2020/9/8/ecbff761-8ba1-4b4c-be31-d08d5220a2ff1599550194948PepeJeansMenBlueSlimFitMid-RiseCleanLookJeans2.jpg",
+      "brand": "Pepe Jeans",
+      "price": 1199
+    },
+    {
+      "name": "Samsung Galaxy M40",
+      "description": "this is a Samsung product",
+      "category": "mobiles",
+      "brand": "Samsung",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "price": "17550"
+    },
+    {
+      "name": "Iphone 14",
+      "description": "An Apple Product",
+      "category": "mobiles",
+      "brand": "Apple",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "price": "100000"
+    },
+    {
+      "name": "HP Laptop",
+      "description": "Hp laptop for student and professionals",
+      "category": "laptops",
+      "brand": "Hevard and Peckars",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "price": "50000"
+    },
+    {
+      "name": "Nike Shoes",
+      "description": "Best shoes for Running",
+      "category": "Shoes",
+      "brand": "Nike",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "price": "3000"
+    },
+    {
+      "name": "Levies Jeans",
+      "description": "Confirmable jeans for man ",
+      "category": "men's clothing",
+      "brand": "Levies",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "price": "5000"
+    },
+    {
+      "name": "Noise Smart Watch",
+      "description": "Noise smart watch for man and women both",
+      "category": "wearables",
+      "brand": "Noise",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "price": "2000"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sanket nirmale",
+      "email": "sanketnirmale8@gmail.com",
+      "password": "root1234",
+      "id": 1
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "sanketnirmale8@gmail.com",
+      "address": "BALAJI NAGAR",
+      "contact": "7397851557",
+      "totalPrice": 5650,
+      "userId": 1,
+      "id": 4
+    }
+  ]
+}
